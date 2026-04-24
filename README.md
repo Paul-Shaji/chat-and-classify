@@ -23,10 +23,6 @@ A powerful Streamlit application that combines AI-powered image classification w
 - Free tier available with generous API limits
 - Real-time "typing" effect for engaging UX
 
-## 🚀 Live Demo
-
-Check out the live application: [Your Vercel/Streamlit Cloud URL here]
-
 ## 📋 Prerequisites
 
 - Python 3.8 or higher
